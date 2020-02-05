@@ -26,7 +26,7 @@ devtools::install_github("dkahle/ggmap", ref = "tidyup", force=TRUE)
 library("ggmap")
 
 #Set your API Key
-ggmap::register_google(key = "AIzaSyBILC2a6qC8dkIpgz6fjuHH7Q6cYUMDL18")
+ggmap::register_google(key = #########)
 
 #Notes: If you get still have a failure then I suggest to restart R and run the library and register google commands again.
 
